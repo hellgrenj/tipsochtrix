@@ -1,6 +1,6 @@
 # tips och trix
 
-**I detta repo kan vi fylla på med våra tips och tricks från våra "container workshops"**  👍😃
+**I detta repo kan vi fylla på med våra tips och trix från våra "container workshops"**  👍😃
 
 *Du behöver installera [Docker Desktop](https://www.docker.com/products/docker-desktop/) för att följa med i dessa övningar.*
 
