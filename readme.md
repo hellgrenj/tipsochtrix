@@ -2,6 +2,8 @@
 
 **I detta repo kan vi fylla på med våra tips och tricks från våra "container workshops"**  👍😃
 
+*Du behöver installera [Docker Desktop](https://www.docker.com/products/docker-desktop/) för att följa med i dessa övningar.*
+
 ## db's i containers för lokal utveckling
 
 ### Postgres med 'docker run'
