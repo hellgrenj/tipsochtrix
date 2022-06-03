@@ -1,4 +1,4 @@
-# tips och tricks
+# tips och trix
 
 **I detta repo kan vi fylla på med våra tips och tricks från våra "container workshops"**  👍😃
 
