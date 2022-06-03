@@ -1,0 +1,14 @@
+version: '3'
+services:
+  mssql:
+    image: mcr.microsoft.com/mssql/server:2019-latest
+    restart: always
+    ports:
+      - '1433:1433'
+    volumes:
+      - mssqldata:/var/opt/mssql
+    environment:
+      - ACCEPT_EULA=y
+      - SA_PASSWORD=BareKNuckles10
+volumes:
+  mssqldata:
