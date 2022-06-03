@@ -42,4 +42,4 @@ Nu kör din databas med samma credentials som i docker-run-exemplet ovan fast da
 
 **PS:** Du kan:
 - stoppa en databas som körs med docker-compose med ``docker-compose stop``   
-- du kan radera en databas INKL datavolymen med ``docker-compose down -v`` bra
+- du kan radera en databas INKL datavolymen med ``docker-compose down -v`` 
